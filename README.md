@@ -1,3 +1,4 @@
+- 🏢 Kikonia
 - 👋 Hi, I’m @Korinczyk
 - 👀 I’m a GameDeveloper using Unity Engine
 - 🌱 I’m currently developing simple mobile games
